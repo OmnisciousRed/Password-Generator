@@ -1,7 +1,7 @@
-from logic import GeneratePassword
+from logic import CreateEntry
 
 def main():
-    print(f"Your Password: {GeneratePassword()}")
+    CreateEntry()
 
 if __name__ == "__main__":
     main()
