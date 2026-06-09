@@ -298,5 +298,3 @@ def HandleMenu():
                 break
             case _:
                 print("\n [!] Invalid selection. Please choose one of the numbers listed")
-
-HandleMenu()
